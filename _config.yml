@@ -89,7 +89,7 @@ author:
       percentage: 90%
     - skill6:
       name: PHP5
-      percentage:
+      percentage: 70%
     - skill7: 50$
       name: Ruby on Rails
       percentage: 75%
