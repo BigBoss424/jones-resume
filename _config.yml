@@ -1,6 +1,6 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Aaron Jones' Resume
+description: Aaron Jones' Resume
 favicon: /assets/img/avatar.JPG
 baseurl: https://bigboss424.github.io/jones-resume
 url: https://bigboss424.github.io/jones-resume
@@ -33,46 +33,45 @@ author:
       title: Owner
       started: 2018
       duration: (2018 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work2:
+      description: I run a web hosting and development company. Providing services to build, maintain and host websites
+                  and web apps for small and medium sized businesses. Helping these businesses with their online
+                  presence and marketing to ensure that traffic and customers and driven to their business. 
       company: Equity Publishing 
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      location: Washington, United States
+      title: Web Developer
+      started: 2015
+      duration: (2015 - 2016)
+      description: Managed Joomla for the company.
+                    ● Built a webpage magazine for the company and respective clients.
+                    ● Managed Web Hosting Maintenance.
     - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
+      company: Walla Walla University
+      location: Washington, United States
+      title: Junior System Administrator
       started: 2009
-      duration: (2009 - 2012)
+      duration: (2010 - 2011)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
+      organization: California State University, Los Angeles
+      location: Los Angeles
+      degree: Bachelor Science
+      major: Computer Science, Software Engineering
       started: 2005
       duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-  languages:
+      description: Managed and Maintained Computer Science
     - language1:
-      name: Chinese
+      name: English
       proficiency: Native
     - language2:
-      name: English
-      proficiency: Professional
-    - language3:
-      name: Japanese
+      name: Spanish
       proficiency: Limit
   programmingSkills:
     - skill1:
       name: HTML
       percentage: 100%
     - skill2:
-      name: Bootstrap
+      name: C++
       percentage: 90%
     - skill3:
       name: JavaScript
