@@ -2,8 +2,8 @@
 title: Dong Liang's CV 
 description: ddbullfrog's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: https://bigboss424.github.io/jones-resume
+url: https://bigboss424.github.io/jones-resume
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -14,28 +14,28 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  name: Aaron Jones
+  title: Web Developer | Business Owner | Hosting Provider
+  address: California, United States
+  email: ajones061392@yahoo.com
+  link: https://cogswebdevandhosting.tk
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: bigboss424
+  linkedin: 
+  twitter: heeroyuy424
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
-    - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
+    - work1: 
+      company: Cogs Web Development and Hosting
+      location: California, United States
+      title: Owner
+      started: 2018
+      duration: (2018 - Present)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work2:
-      company: XXX Ltd
+      company: Equity Publishing 
       location: Shanghai, China
       title: Java Developer
       started: 2012
