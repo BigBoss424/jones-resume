@@ -5,7 +5,7 @@ favicon: /assets/img/Cogs.png
 baseurl: https://bigboss424.github.io/jones-resume
 url: https://bigboss424.github.io/jones-resume
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+google_analytics: UA-129028860-7
 
 # Build settings
 markdown: kramdown
@@ -21,9 +21,9 @@ author:
   link: https://cogswebdevandhosting.tk
  # weibo:
   github: bigboss424
-  linkedin: 
+  linkedin: aaron-jones-4739bb85
   twitter: heeroyuy424
-  gavatar: /assets/img/portfolio_pic
+  gavatar: /assets/img/portfolio_pic.png
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
