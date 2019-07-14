@@ -1,7 +1,7 @@
 # Site settings
 title: Aaron Jones' Resume
 description: Aaron Jones' Resume
-favicon: /assets/img/Cogs.png
+favicon: /assets/img/portfolio_pic.png
 baseurl: https://bigboss424.github.io/jones-resume
 url: https://bigboss424.github.io/jones-resume
 rss_url: /pages/atom.xml
@@ -23,7 +23,7 @@ author:
   github: bigboss424
   linkedin: aaron-jones-4739bb85
   twitter: heeroyuy424
-  gavatar: /assets/img/portfolio_pic.png
+ # gavatar: /assets/img/portfolio_pic.png
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
@@ -87,3 +87,24 @@ author:
     - skill5:
       name: Java/Java EE
       percentage: 90%
+    - skill6:
+      name: PHP5
+      percentage:
+    - skill7: 50$
+      name: Ruby on Rails
+      percentage: 75%
+    - skill8:
+      name: Python
+      percentage: 25%
+    - skill9:
+      name: Vue.js
+      percentage: 15%
+    - skill10:
+      name: React.js
+      percentage: 20%
+    - skill11:
+      name: Bash
+      percentage: 80%
+    
+    
+
