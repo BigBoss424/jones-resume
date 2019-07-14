@@ -1,7 +1,7 @@
 # Site settings
 title: Aaron Jones' Resume
 description: Aaron Jones' Resume
-favicon: /assets/img/logo_title.png
+favicon: /assets/img/Cogs.png
 baseurl: https://bigboss424.github.io/jones-resume
 url: https://bigboss424.github.io/jones-resume
 rss_url: /pages/atom.xml
@@ -23,7 +23,7 @@ author:
   github: bigboss424
   linkedin: 
   twitter: heeroyuy424
-  gavatar: /resumecard/assets/img/avatar.JPG
+  gavatar: /assets/img/portfolio_pic
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
@@ -34,8 +34,9 @@ author:
       started: 2018
       duration: (2018 - Present)
       description: I run a web hosting and development company. Providing services to build, maintain and host websites
-                  and web apps for small and medium sized businesses. Helping these businesses with their online
-                  presence and marketing to ensure that traffic and customers and driven to their business. 
+                    and web apps for small and medium sized businesses. Helping these businesses with their online
+                    presence and marketing to ensure that traffic and customers and driven to their business. 
+    - work2:
       company: Equity Publishing 
       location: Washington, United States
       title: Web Developer
