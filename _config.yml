@@ -1,7 +1,7 @@
 # Site settings
 title: Aaron Jones' Resume
 description: Aaron Jones' Resume
-favicon: /assets/img/avatar.JPG
+favicon: /assets/img/logo_title.png
 baseurl: https://bigboss424.github.io/jones-resume
 url: https://bigboss424.github.io/jones-resume
 rss_url: /pages/atom.xml
@@ -19,7 +19,7 @@ author:
   address: California, United States
   email: ajones061392@yahoo.com
   link: https://cogswebdevandhosting.tk
-  weibo:
+ # weibo:
   github: bigboss424
   linkedin: 
   twitter: heeroyuy424
@@ -50,16 +50,18 @@ author:
       title: Junior System Administrator
       started: 2009
       duration: (2010 - 2011)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: Managed and Maintained the Computer Science Department's Computer Lab. Learned how to maintain and manage various 
+                   Linux servers and how to utilize them for the Computer Lab. Worked with the Computer Science Department Chair with 
+                   numerous projects and tasks. 
   educationHistory:
     - education1:
       organization: California State University, Los Angeles
       location: Los Angeles
       degree: Bachelor Science
       major: Computer Science, Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: Managed and Maintained Computer Science
+      started: 2017
+      duration: (2017 - Present)
+      description: Managed 
     - language1:
       name: English
       proficiency: Native
