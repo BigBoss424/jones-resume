@@ -1,6 +1,6 @@
 <?php 
-	if (isset($_GET['../docs/Aaron-Jones.pdf'])){
-		$file = $_GET['../docs/Aaron-Jones.pdf'];
+	if (isset($_GET['../Aaron-Jones.pdf'])){
+		$file = $_GET['../Aaron-Jones.pdf'];
 		if(file_exists($file) && is_readable($file) && preg_match('/\.pdf$/', $file))
 		{
 			header('Content-Type: application/pdf');
