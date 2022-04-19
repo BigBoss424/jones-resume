@@ -56,12 +56,20 @@ author:
                    numerous projects and tasks. 
   educationHistory:
     - education1:
+      organization: Western Governors Univesity
+      location: Online
+      degree: Bachelor in Science
+      major: Computer Science, Software Engineering
+      started: 2019
+      duration: (2019 - Present)
+
+    - education2:
       organization: California State University, Los Angeles
       location: Los Angeles
-      degree: Bachelor Science
+      degree: Bachelor in Science
       major: Computer Science, Software Engineering
       started: 2017
-      duration: (2017 - Present)
+      duration: (2017 - 2018)
       description: Studying Computer Science and other related material. Learning to implement course material into everyday
                     development. 
   languages:
