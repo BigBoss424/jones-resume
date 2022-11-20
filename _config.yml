@@ -15,10 +15,10 @@ exclude: [vendor]
 # Author settings
 author:
   name: Aaron Jones
-  title: Web Developer | Business Owner | Hosting Provider
+  title: Web Developer | Business Owner 
   address: California, United States
   email: ajones061392@yahoo.com
-  link: https://cogswebdevandhosting.tk
+  link: https://www.cogswebdevelopmentandhosting.com/
  # weibo:
   github: bigboss424
   linkedin: aaron-jones-4739bb85
@@ -61,7 +61,7 @@ author:
       degree: Bachelor in Science
       major: Computer Science, Software Engineering
       started: 2019
-      duration: (2019 - Present)
+      duration: (2019 - 2022)
       description: Studying Computer Science and other related material. 
       
     - education2:
@@ -79,32 +79,29 @@ author:
       proficiency: Native
     - language2:
       name: Spanish
-      proficiency: Limit
+      proficiency: Limited
   programmingSkills:
     - skill1:
       name: HTML
-      percentage: 100%
+      percentage: 85%
     - skill2:
       name: C++
-      percentage: 90%
+      percentage: 45%
     - skill3:
       name: JavaScript
-      percentage: 70%
+      percentage: 50%
     - skill4:
-      name: AngularJS
-      percentage: 70%
+      name: Angular
+      percentage: 25%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: Java
+      percentage: 65%
     - skill6:
-      name: PHP5
-      percentage: 70%
-    - skill7: 50$
-      name: Ruby on Rails
-      percentage: 75%
+      name: PHP
+      percentage: 30%
     - skill8:
       name: Python
-      percentage: 25%
+      percentage: 10%
     - skill9:
       name: Vue.js
       percentage: 15%
@@ -113,7 +110,7 @@ author:
       percentage: 20%
     - skill11:
       name: Bash
-      percentage: 80%
+      percentage: 50%
     
     
 
